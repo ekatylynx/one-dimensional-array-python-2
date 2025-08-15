@@ -8,7 +8,7 @@
 Находится в файле block-diagram_2.png в репозитории 
 ![Изображение блок схемы алгоритма](https://github.com/ekatylynx/one-dimensional-array-python-2/blob/master/block-diagram_2.png)
 
-Ссылка на песочницу для запуска программы на Python: ![Ссылка на Online Python](https://www.online-python.com/ftNbBKEgos)
+Ссылка на песочницу для запуска программы на Python: [Ссылка на Online Python](https://www.online-python.com/ftNbBKEgos)
 
 ## Ветви алгоритма:
 У нас есть 2 ветки в алгоритме:
